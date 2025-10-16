@@ -1,3 +1,3 @@
 # REVEAL
 
-![assets/REVEAL-compressé.pdf](assets/REVEAL-compressé.pdf)
+![assets/REVEAL.png](assets/REVEAL.png)
